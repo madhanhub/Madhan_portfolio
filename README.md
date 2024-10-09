@@ -4,7 +4,7 @@
  **Run the application:**
    ```
    git clone https://github.com/madhanhub/madhan_portfolio
-   cd Django-portfolio
+   cd madhan_portfolio
    click index.html
   ``` 
  ## Example Screenshots
@@ -16,6 +16,4 @@
 
 ![Screenshot 2024-02-08 173541](https://github.com/madhanhub/madhan_portfolio/blob/main/assets/Screenshot%20from%202024-10-09%2011-36-13.png)
 
-![Screenshot 2024-02-08 173602](https://github.com/Arjunan1234/portfolio/assets/63443618/16e5d4a2-2845-403d-8805-f7149045560e)
 
-![Screenshot 2024-02-08 173626](https://github.com/Arjunan1234/portfolio/assets/63443618/52e65923-017d-45aa-a53c-73bc585cda16)
