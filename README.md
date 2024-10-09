@@ -8,7 +8,7 @@
    click index.html
   ``` 
  ## Example Screenshots
-![Screenshot 2024-02-08 173358](https://github.com/Arjunan1234/portfolio/assets/63443618/49bd24c9-6d23-455f-b4d6-b57ae326915c)
+![Screenshot 2024-02-08 173358](https://github.com/madhanhub/madhan_portfolio/blob/main/assets/images/Screenshot%20from%202024-10-09%2011-30-26.png)
 
 ![Screenshot 2024-02-08 173438](https://github.com/Arjunan1234/portfolio/assets/63443618/0e7bcc5e-871c-46b5-8770-7c28a7b86608)
 
