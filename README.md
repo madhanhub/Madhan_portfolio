@@ -10,7 +10,7 @@
  ## Example Screenshots
 ![Screenshot 2024-02-08 173358](https://github.com/madhanhub/madhan_portfolio/blob/main/assets/Screenshot%20from%202024-10-09%2011-30-26.png)
 
-![Screenshot 2024-02-08 173438](https://github.com/Arjunan1234/portfolio/assets/63443618/0e7bcc5e-871c-46b5-8770-7c28a7b86608)
+![Screenshot 2024-02-08 173438](https://github.com/Arjunan1234/portfolio/assets/![alt text](<assets/Screenshot from 2024-10-09 11-35-31.png>))
 
 ![Screenshot 2024-02-08 173516](https://github.com/Arjunan1234/portfolio/assets/63443618/b6ba7d38-7e41-410f-b4d8-ad737f58fd7e)
 
