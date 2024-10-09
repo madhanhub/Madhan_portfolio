@@ -3,10 +3,10 @@
     
  **Run the application:**
    ```
-   git clone https://github.com/madhanhub/portfolio.git
+   git clone https://github.com/madhanhub/madhan_portfolio
    cd Django-portfolio
    click index.html
-  ```
+  ``` 
  ## Example Screenshots
 ![Screenshot 2024-02-08 173358](https://github.com/Arjunan1234/portfolio/assets/63443618/49bd24c9-6d23-455f-b4d6-b57ae326915c)
 
